@@ -1,8 +1,10 @@
 # Laxman Mudigonda — Portfolio
 
+https://laxmanmudigonda.github.io/
+
 Complete editable source for the portfolio. Plain HTML, CSS, and JavaScript; no npm installation, build step, API keys, or backend required.
 
-## Publish using GitHub's website
+## Publish using GitHub Pages
 
 1. Extract this ZIP on your computer.
 2. Create a public GitHub repository named `portfolio`.
